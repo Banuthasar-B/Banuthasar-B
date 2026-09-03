@@ -1,7 +1,7 @@
-<!-- Continuous running pixelated Pacman across the screen -->
-<marquee scrollamount="4" direction="left" behavior="scroll" style="background: transparent;">
-  <img src="https://gifer.com" width="70" alt="Pixel Pacman Running" />
-</marquee>
+<!-- Renders Pacman correctly without security script filters stripping it -->
+<p align="center">
+  <img src="https://gifer.com" width="100" alt="Pixel Pacman Running" />
+</p>
 
 # 👋 Hi, I'm Banuthasar 
 **Full Stack Engineer & Developer** 
