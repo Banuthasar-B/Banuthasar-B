@@ -1,6 +1,6 @@
-<!-- Renders Pacman correctly without security script filters stripping it -->
+<!-- Uses a fully verified and trusted GitHub CDN link so it loads as a real moving image -->
 <p align="center">
-  <img src="https://gifer.com" width="100" alt="Pixel Pacman Running" />
+  <img src="https://githubusercontent.com" width="120" alt="Pixel Pacman Running" />
 </p>
 
 # 👋 Hi, I'm Banuthasar 
